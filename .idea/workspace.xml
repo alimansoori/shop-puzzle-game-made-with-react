@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eac4b2c-6dd6-4175-842b-6aea54dc5204" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/Intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Ballon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Bird.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Bubble/Bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Bubble/Game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Car/Car.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Car/components/Brum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Car/components/Dino.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Car/components/Gaz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Car/components/Tyres.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/House.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/components/Flower.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/components/Github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/components/Hearts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/components/Satellite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/House/components/Spider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Rain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Rainbow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/components/Sun.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/ballon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/bird1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/bird2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/bush.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/dino3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/flower1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/heart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/house.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/house4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/rain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/rainbow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/shop-game.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/spider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/stars.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/sun.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Intro/images/tyre3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/Bag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/Shop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/Shop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/Timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/bag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/balloon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/balloons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/bear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/bananas.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/broccoli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/cabbage.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/cake.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/carrot.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/croissant.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/eggs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/grapes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/jam.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/milk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/mustard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/onion.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/orange.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/pasta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/pineapple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/potato.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/strawberry.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/tomato.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/items/watermelon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Shop/images/shopping-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/server.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="teddy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teddy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eac4b2c-6dd6-4175-842b-6aea54dc5204" name="Default Changelist" comment="" />
+      <created>1571075873770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571075873770</updated>
+      <workItem from="1571075875553" duration="2842000" />
+      <workItem from="1571124832754" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/screen1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screen3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
